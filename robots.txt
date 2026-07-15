@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-osilqu.theevilpig.com/sitemap.xml
